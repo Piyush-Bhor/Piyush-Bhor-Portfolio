@@ -1,25 +1,25 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "StrainQuest",
+    subtitle: "EJS, MongoDB, Express, Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    "StrainQuest is a fun game, that suggets you new and random cannabis strains to discover and try. You can collect these strain, search for the ones you have already tried and add them to your collection. It's a pokedex for weed!",
     image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Piyush-Bhor/StrainQuest",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "DishSavvy",
+    subtitle: "EJS, MongoDB, Express, Node",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    "DishSavvy is a web application that allows users to easily search for recipes that align with their dietary needs. Users can view recipes and create an account to save recipes for later. This project was originally made for the Smart Cities 2023 hackathon.",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Piyush-Bhor/CC_SenecaHackathon",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Portfolio",
+    subtitle: "React and Tailwind",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
@@ -52,9 +52,9 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "MongoDB",
+  "Express",
   "React",
-  "Next.js",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "Python"
 ];
