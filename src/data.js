@@ -21,7 +21,7 @@ export const projects = [
     description:
     "This is my Portfolio made using React and Tailwind.css. It is hosted on Github pages. Feel free to checkout my GitHub repo as well to see more of my work.",
     image: "./Portfolio.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/Piyush-Bhor/Piyush-Bhor-Portfolio",
   },
   {
     title: "HighFinder",
