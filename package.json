@@ -1,7 +1,7 @@
 {
   "name": "my-portfolio",
   "version": "0.1.0",
-  "homepage": "https://Piyush-Bhor.github.io",
+  "homepage": "https://Piyush-Bhor.github.io/public/index.html",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
