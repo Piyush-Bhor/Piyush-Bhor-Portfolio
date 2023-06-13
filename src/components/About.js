@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import "../animation.css";
 
 
 export default function About() {
@@ -69,13 +68,7 @@ export default function About() {
                 </a>
               </div>
             </div>
-            <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-              <img
-                  className="object-cover object-center rounded"
-                  alt="hero"
-                  src="./programmer.svg"
-              />
-            </div>
+            
           </div>
         </section>
     );
