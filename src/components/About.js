@@ -33,7 +33,7 @@ export default function About() {
           setTypingComplete(true);
         }, 1500); // Change the delay after typing each text (in milliseconds) if desired
       }
-    }, 100); // Change the typing speed (in milliseconds) if desired
+    }, 50); // Change the typing speed (in milliseconds) if desired
   };
   
   useEffect(() => {
@@ -47,9 +47,9 @@ export default function About() {
             <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
               <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                 Hi, I'm Piyush.
-                <br className="hidden lg:inline-block" />I build &nbsp;
+                <br className="hidden lg:inline-block" />I build&nbsp;
                 {typingComplete && (
-                  <span className="typed-text">{text}</span>
+                  <span className="typed-text text-green-500">{text}</span>
                 )}
               </h1>
               <p className="mb-8 leading-relaxed">
