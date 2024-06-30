@@ -12,7 +12,7 @@ export default function Skills() {
                 Skills &amp; Technologies
               </h1>
               <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-                These are the programming languages and frameworks that I work with the most.
+                These are the tools and programming languages that I work with the most.
               </p>
             </div>
             <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
